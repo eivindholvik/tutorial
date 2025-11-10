@@ -1,2 +1,3 @@
 #README
-Edited from main branch
+Edited from both
+
